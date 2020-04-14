@@ -1,0 +1,8 @@
+Locales ['es'] = {
+	['used_kit']					= 'usaste ~y~x1 ~b~Repairkit',
+	['must_be_outside']				= 'debes estar fuera del vehículo!',
+	['no_vehicle_nearby']			= 'no hay ~r~vehicle ~w~cerca',
+	['finished_repair']				= '~g~usted reparó el vehículo!',
+	['abort_hint']					= 'pulsar ~INPUT_VEH_DUCK~ para cancelar',
+	['aborted_repair']				= 'tu has ~r~abortado ~w~la reparación',
+}
